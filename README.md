@@ -35,7 +35,7 @@ The project includes the implementation of a ResNet50-based neural network. The 
 
 ## Results
 
-The model achieved [mention accuracy] on the test set. Training and validation loss/accuracy graphs are available in the notebook.
+The model achieved 97.2% on the test set. Training and validation loss/accuracy graphs are available in the notebook.
 
 ## Authors
 
